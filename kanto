@@ -56,6 +56,22 @@ body {
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
 </h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+4 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+46 matches
+</font></h2></div></button><div class="content"><p><b>
+Eevee, Kangaskhan, Raticate, Tauros
+</b><br><br>
+Abra, Alakazam, Arcanine, Chansey, Clefable, Clefairy, Cubone, Diglett, Ditto, Dodrio, Dragonite, Dugtrio, Farfetch’d, Fearow, Geodude, Golem, Graveler, Growlithe, Hitmonchan, Hitmonlee, Jigglypuff, Kabuto, Kabutops, Kadabra, Lickitung, Mankey, Marowak, Meowth, Persian, Pidgeot, Pidgeotto, Pidgey, Pinsir, Porygon, Primeape, Rattata, Snorlax, Spearow, Staryu, Vulpix, Weedle, Wigglytuff
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
@@ -117,6 +133,22 @@ Beedrill, Chansey, Clefable, Clefairy, Ditto, Dodrio, Drowzee, Eevee, Electabuzz
 Sandshrew, Sandslash
 </b><br><br>
 Beedrill, Cubone, Diglett, Drowzee, Dugtrio, Electabuzz, Exeggutor, Geodude, Golem, Graveler, Hypno, Jolteon, Kakuna, Marowak, Meowth, Moltres, Nidoking, Nidoqueen, Ninetales, Onix, Persian, Pikachu, Ponyta, Psyduck, Raichu, Rapidash, Rhydon, Rhyhorn, Zapdos
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Pink</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+7 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+28 matches
+</font></h2></div></button><div class="content"><p><b>
+Chansey, Clefable, Clefairy, Jigglypuff, Lickitung, Porygon, Wigglytuff
+</b><br><br>
+Ditto, Dodrio, Eevee, Exeggcute, Farfetch’d, Fearow, Kangaskhan, Meowth, Mew, Mr. Mime, Persian, Pidgeot, Pidgeotto, Pidgey, Raticate, Rattata, Slowbro, Slowpoke, Snorlax, Spearow, Tauros
 </p></div>
 
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
