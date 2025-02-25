@@ -90,6 +90,38 @@ Articuno, Cloyster, Dewgong, Dragonair, Dratini, Gloom, Goldeen, Gyarados, Kabut
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
 </h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+2 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+40 matches
+</font></h2></div></button><div class="content"><p><b>
+Meowth, Persian
+</b><br><br>
+Beedrill, Chansey, Clefable, Clefairy, Ditto, Dodrio, Drowzee, Eevee, Electabuzz, Exeggutor, Farfetch’d, Fearow, Hypno, Jigglypuff, Jolteon, Kakuna, Kangaskhan, Lickitung, Moltres, Ninetales, Pidgeot, Pidgeotto, Pidgey, Pikachu, Ponyta, Porygon, Psyduck, Raichu, Rapidash, Raticate, Rattata, Sandshrew, Sandslash, Snorlax, Spearow, Tauros, Wigglytuff, Zapdos
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#e6c8b3,#d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ground</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+2 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+31 matches
+</font></h2></div></button><div class="content"><p><b>
+Sandshrew, Sandslash
+</b><br><br>
+Beedrill, Cubone, Diglett, Drowzee, Dugtrio, Electabuzz, Exeggutor, Geodude, Golem, Graveler, Hypno, Jolteon, Kakuna, Marowak, Meowth, Moltres, Nidoking, Nidoqueen, Ninetales, Onix, Persian, Pikachu, Ponyta, Psyduck, Raichu, Rapidash, Rhydon, Rhyhorn, Zapdos
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#db8b70,#b8502e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fire</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
@@ -119,7 +151,21 @@ Charmander, Charmeleon, Flareon, Magmar
 Arcanine, Charizard, Electrode, Goldeen, Growlithe, Jynx, Kingler, Krabby, Magikarp, Moltres, Ninetales, Paras, Parasect, Ponyta, Rapidash, Seaking, Vileplume, Voltorb, Vulpix
 </p></div>
 
-
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Electric</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+4 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+22 matches
+</font></h2></div></button><div class="content"><p><b>
+Electabuzz, Jolteon, Pikachu, Raichu
+</b><br><br>
+Beedrill, Drowzee, Electrode, Exeggutor, Hypno, Kakuna, Magneton, Meowth, Moltres, Ninetales, Persian, Ponyta, Psyduck, Rapidash, Sandshrew, Sandslash, Voltorb, Zapdos
+</p></div>
 
 
 <script>
