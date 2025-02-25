@@ -53,33 +53,37 @@ body {
 <hr><br>
 <center>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 250px"><h2>
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
-</h2></div><div class="infobox" style="width: 250px">
+</h2></div><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Green</b></div>
-</div><div class="infobox" style="width: 250px"><h2><font color="a2bffe">
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+6 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
 41 matches
 </font></h2></div></button><div class="content"><p><b>
 Bellsprout, Bulbasaur, Ivysaur, Venusaur, Victreebel, Weepinbell
-</b><br>
+</b><br><br>
 Arbok, Beedrill, Caterpie, Ekans, Exeggcute, Exeggutor, Gastly, Gengar, Gloom, Golbat, Grimer, Haunter, Kakuna, Koffing, Metapod, Muk, Nidoking, Nidoqueen, Nidoran-F, Nidoran-M, Nidorina, Nidorino, Oddish, Paras, Parasect, Scyther, Tangela, Tentacool, Tentacruel, Venomoth, Venonat, Vileplume, Weedle, Weezing, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 250px"><h2>
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
-</h2></div><div class="infobox" style="width: 250px">
+</h2></div><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
-</div><div class="infobox" style="width: 250px"><h2><font color="a2bffe">
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+9 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
 41 matches
 </font></h2></div></button><div class="content"><p><b>
 Blastoise, Golduck, Horsea, Poliwag, Poliwhirl, Seadra, Squirtle, Vaporeon, Wartortle
-</b><br>
+</b><br><br>
 Articuno, Cloyster, Dewgong, Dragonair, Dratini, Gloom, Goldeen, Gyarados, Kabuto, Kabutops, Kingler, Krabby, Lapras, Magikarp, Nidoqueen, Nidoran-F, Nidorina, Oddish, Omanyte, Omastar, Poliwrath, Psyduck, Seaking, Seel, Shellder, Slowbro, Slowpoke, Starmie, Staryu, Tangela, Tentacool, Tentacruel
 </p></div>
 
