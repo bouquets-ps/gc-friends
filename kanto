@@ -56,6 +56,22 @@ body {
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
 </h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+2 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+51 matches
+</font></h2></div></button><div class="content"><p><b>
+Nidoran-F, Nidorina
+</b><br><br>
+Arbok, Articuno, Beedrill, Bellsprout, Blastoise, Bulbasaur, Dragonair, Dratini, Ekans, Gastly, Gengar, Gloom, Golbat, Golduck, Grimer, Gyarados, Haunter, Horsea, Ivysaur, Kakuna, Koffing, Lapras, Muk, Nidoking, Nidoqueen, Nidoran-M, Nidorino, Oddish, Omanyte, Omastar, Poliwag, Poliwhirl, Poliwrath, Seadra, Squirtle, Tangela, Tentacool, Tentacruel, Vaporeon, Venomoth, Venonat, Venusaur, Victreebel, Vileplume, Wartortle, Weedle, Weepinbell, Weezing, Zubat
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
@@ -138,6 +154,22 @@ Aerodactyl, Beedrill, Bellsprout, Bulbasaur, Cloyster, Ditto, Gastly, Gengar, Gl
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
 </h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+1 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+36 matches
+</font></h2></div></button><div class="content"><p><b>
+Tangela
+</b><br><br>
+Articuno, Bellsprout, Blastoise, Bulbasaur, Dragonair, Dratini, Exeggcute, Exeggutor, Gloom, Golduck, Gyarados, Horsea, Ivysaur, Lapras, Nidoqueen, Nidoran-F, Nidorina, Oddish, Omanyte, Omastar, Paras, Parasect, Poliwag, Poliwhirl, Poliwrath, Seadra, Squirtle, Tentacool, Tentacruel, Vaporeon, Venusaur, Victreebel, Vileplume, Wartortle, Weepinbell
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Psychic</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Purple</b></div>
@@ -197,6 +229,22 @@ Ditto, Dodrio, Eevee, Exeggcute, Farfetch’d, Fearow, Kangaskhan, Meowth, Mew, 
 Ninetales, Ponyta, Rapidash
 </b><br><br>
 Arcanine, Beedrill, Charizard, Charmander, Charmeleon, Drowzee, Electabuzz, Exeggutor, Flareon, Growlithe, Hypno, Jolteon, Kakuna, Magmar, Meowth, Moltres, Persian, Pikachu, Psyduck, Raichu, Sandshrew, Sandslash, Vulpix, Zapdos
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#7070db,#2e2eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Dragon</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+2 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+26 matches
+</font></h2></div></button><div class="content"><p><b>
+Dragonair, Dratini
+</b><br><br>
+Articuno, Blastoise, Dragonite, Gloom, Golduck, Gyarados, Horsea, Lapras, Nidoqueen, Nidoran-F, Nidorina, Oddish, Omanyte, Omastar, Poliwag, Poliwhirl, Poliwrath, Seadra, Squirtle, Tangela, Tentacool, Tentacruel, Vaporeon, Wartortle
 </p></div>
 
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
