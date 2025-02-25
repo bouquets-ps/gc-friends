@@ -56,6 +56,62 @@ body {
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
 </h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+1 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+57 matches
+</font></h2></div></button><div class="content"><p><b>
+Gyarados
+</b><br><br>
+Aerodactyl, Articuno, Blastoise, Butterfree, Charizard, Cloyster, Dewgong, Dodrio, Dragonair, Dragonite, Dratini, Farfetch’d, Fearow, Gloom, Golbat, Goldeen, Golduck, Horsea, Kabuto, Kabutops, Kingler, Krabby, Lapras, Magikarp, Moltres, Nidoqueen, Nidoran-F, Nidorina, Oddish, Omanyte, Omastar, Pidgeot, Pidgeotto, Pidgey, Poliwag, Poliwhirl, Poliwrath, Psyduck, Scyther, Seadra, Seaking, Seel, Shellder, Slowbro, Slowpoke, Spearow, Squirtle, Starmie, Staryu, Tangela, Tentacool, Tentacruel, Vaporeon, Wartortle, Zapdos, Zubat
+</p></div>
+
+
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+7 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+56 matches
+</font></h2></div></button><div class="content"><p><b>
+Dodrio, Farfetch’d, Fearow, Pidgeot, Pidgeotto, Pidgey, Spearow
+</b><br><br>
+Abra, Aerodactyl, Alakazam, Arcanine, Articuno, Butterfree, Chansey, Charizard, Clefable, Clefairy, Cubone, Diglett, Ditto, Dragonite, Dugtrio, Eevee, Geodude, Golbat, Golem, Graveler, Growlithe, Gyarados, Hitmonchan, Hitmonlee, Jigglypuff, Kabuto, Kabutops, Kadabra, Kangaskhan, Lickitung, Mankey, Marowak, Meowth, Moltres, Persian, Pinsir, Porygon, Primeape, Raticate, Rattata, Scyther, Snorlax, Staryu, Tauros, Vulpix, Weedle, Wigglytuff, Zapdos, Zubat
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Purple</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+2 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+55 matches
+</font></h2></div></button><div class="content"><p><b>
+Golbat, Zubat
+</b><br><br>
+Aerodactyl, Arbok, Articuno, Beedrill, Bellsprout, Bulbasaur, Butterfree, Charizard, Cloyster, Ditto, Dodrio, Dragonite, Ekans, Farfetch’d, Fearow, Gastly, Gengar, Gloom, Grimer, Gyarados, Haunter, Ivysaur, Kakuna, Koffing, Mewtwo, Moltres, Muk, Nidoking, Nidoqueen, Nidoran-F, Nidoran-M, Nidorina, Nidorino, Oddish, Pidgeot, Pidgeotto, Pidgey, Rattata, Scyther, Shellder, Spearow, Starmie, Tentacool, Tentacruel, Venomoth, Venonat, Venusaur, Victreebel, Vileplume, Weedle, Weepinbell, Weezing, Zapdos
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
@@ -67,6 +123,42 @@ body {
 Nidoran-F, Nidorina
 </b><br><br>
 Arbok, Articuno, Beedrill, Bellsprout, Blastoise, Bulbasaur, Dragonair, Dratini, Ekans, Gastly, Gengar, Gloom, Golbat, Golduck, Grimer, Gyarados, Haunter, Horsea, Ivysaur, Kakuna, Koffing, Lapras, Muk, Nidoking, Nidoqueen, Nidoran-M, Nidorino, Oddish, Omanyte, Omastar, Poliwag, Poliwhirl, Poliwrath, Seadra, Squirtle, Tangela, Tentacool, Tentacruel, Vaporeon, Venomoth, Venonat, Venusaur, Victreebel, Vileplume, Wartortle, Weedle, Weepinbell, Weezing, Zubat
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Rock</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Purple</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+1 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+48 matches
+</font></h2></div></button><div class="content"><p><b>
+Aerodactyl
+</b><br><br>
+Arbok, Articuno, Butterfree, Charizard, Cloyster, Ditto, Dodrio, Dragonite, Ekans, Farfetch’d, Fearow, Gastly, Gengar, Geodude, Golbat, Golem, Graveler, Grimer, Gyarados, Haunter, Kabuto, Kabutops, Koffing, Mewtwo, Moltres, Muk, Nidoking, Nidoran-M, Nidorino, Omanyte, Omastar, Onix, Pidgeot, Pidgeotto, Pidgey, Rattata, Rhydon, Rhyhorn, Scyther, Shellder, Spearow, Starmie, Venomoth, Venonat, Weezing, Zapdos, Zubat
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#7070db,#2e2eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Dragon</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+1 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+46 matches
+</font></h2></div></button><div class="content"><p><b>
+Dragonite
+</b><br><br>
+Abra, Aerodactyl, Alakazam, Arcanine, Articuno, Butterfree, Charizard, Cubone, Diglett, Dodrio, Dragonair, Dragonite, Dratini, Dugtrio, Eevee, Farfetch’d, Fearow, Geodude, Golbat, Golem, Graveler, Growlithe, Gyarados, Hitmonchan, Hitmonlee, Kabuto, Kabutops, Kadabra, Kangaskhan, Mankey, Marowak, Moltres, Pidgeot, Pidgeotto, Pidgey, Pinsir, Primeape, Raticate, Scyther, Spearow, Staryu, Tauros, Vulpix, Weedle, Zapdos, Zubat
 </p></div>
 
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
@@ -84,6 +176,44 @@ Eevee, Kangaskhan, Raticate, Tauros
 </b><br><br>
 Abra, Alakazam, Arcanine, Chansey, Clefable, Clefairy, Cubone, Diglett, Ditto, Dodrio, Dragonite, Dugtrio, Farfetch’d, Fearow, Geodude, Golem, Graveler, Growlithe, Hitmonchan, Hitmonlee, Jigglypuff, Kabuto, Kabutops, Kadabra, Lickitung, Mankey, Marowak, Meowth, Persian, Pidgeot, Pidgeotto, Pidgey, Pinsir, Porygon, Primeape, Rattata, Snorlax, Spearow, Staryu, Vulpix, Weedle, Wigglytuff
 </p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#93ecec,#52e0e0) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ice</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+1 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+44 matches
+</font></h2></div></button><div class="content"><p><b>
+Articuno
+</b><br><br>
+Aerodactyl, Blastoise, Butterfree, Charizard, Cloyster, Dewgong, Dodrio, Dragonair, Dragonite, Dratini, Farfetch’d, Fearow, Gloom, Golbat, Golduck, Gyarados, Horsea, Jynx, Lapras, Moltres, Nidoqueen, Nidoran-F, Nidorina, Oddish, Omanyte, Omastar, Pidgeot, Pidgeotto, Pidgey, Poliwag, Poliwhirl, Poliwrath, Scyther, Seadra, Spearow, Squirtle, Tangela, Tentacool, Tentacruel, Vaporeon, Wartortle, Zapdos, Zubat
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#db8b70,#b8502e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fire</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+1 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+42 matches
+</font></h2></div></button><div class="content"><p><b>
+Moltres
+</b><br><br>
+Aerodactyl, Arcanine, Articuno, Beedrill, Butterfree, Charizard, Charmander, Charmeleon, Dodrio, Dragonite, Drowzee, Electabuzz, Exeggutor, Farfetch’d, Fearow, Flareon, Golbat, Growlithe, Gyarados, Hypno, Jolteon, Kakuna, Magmar, Meowth, Ninetales, Persian, Pidgeot, Pidgeotto, Pidgey, Pikachu, Ponyta, Psyduck, Raichu, Rapidash, Sandshrew, Sandslash, Scyther, Spearow, Vulpix, Zapdos, Zubat
+</p></div>
+
+
 
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
@@ -154,6 +284,46 @@ Aerodactyl, Beedrill, Bellsprout, Bulbasaur, Cloyster, Ditto, Gastly, Gengar, Gl
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
 </h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#db8b70,#b8502e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fire</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#db7070,#b82e2e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Red</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+1 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+39 matches
+</font></h2></div></button><div class="content"><p><b>
+Charizard
+</b><br><br>
+Aerodactyl, Arcanine, Articuno, Butterfree, Charmander, Charmeleon, Dodrio, Dragonite, Electrode, Farfetch’d, Fearow, Flareon, Golbat, Goldeen, Growlithe, Gyarados, Jynx, Kingler, Krabby, Magikarp, Magmar, Moltres, Ninetales, Paras, Parasect, Pidgeot, Pidgeotto, Pidgey, Ponyta, Rapidash, Scyther, Seaking, Spearow, Vileplume, Voltorb, Vulpix, Zapdos, Zubat
+</p></div>
+
+
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Electric</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+1 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+38 matches
+</font></h2></div></button><div class="content"><p><b>
+Zapdos
+</b><br><br>
+Aerodactyl, Articuno, Beedrill, Butterfree, Charizard, Dodrio, Dragonite, Drowzee, Electabuzz, Electrode, Exeggutor, Farfetch’d, Fearow, Golbat, Gyarados, Hypno, Jolteon, Kakuna, Magneton, Meowth, Moltres, Ninetales, Persian, Pidgeot, Pidgeotto, Pidgey, Pikachu, Ponyta, Psyduck, Raichu, Rapidash, Sandshrew, Sandslash, Scyther, Spearow, Voltorb, Zubat
+</p></div>
+
+
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
@@ -186,6 +356,24 @@ Abra, Aerodactyl, Alakazam, Arbok, Cloyster, Ditto, Drowzee, Ekans, Exeggcute, E
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
 </h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Green</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+1 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+34 matches
+</font></h2></div></button><div class="content"><p><b>
+Scyther
+</b><br><br>
+Aerodactyl, Articuno, Beedrill, Bellsprout, Bulbasaur, Butterfree, Caterpie, Charizard, Dodrio, Dragonite, Farfetch’d, Fearow, Golbat, Gyarados, Ivysaur, Kakuna, Metapod, Moltres, Paras, Parasect, Pidgeot, Pidgeotto, Pidgey, Pinsir, Spearow, Venomoth, Venonat, Venusaur, Victreebel, Weedle, Weepinbell, Zapdos, Zubat
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#e6c8b3,#d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ground</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
@@ -197,6 +385,24 @@ Abra, Aerodactyl, Alakazam, Arbok, Cloyster, Ditto, Drowzee, Ekans, Exeggcute, E
 Sandshrew, Sandslash
 </b><br><br>
 Beedrill, Cubone, Diglett, Drowzee, Dugtrio, Electabuzz, Exeggutor, Geodude, Golem, Graveler, Hypno, Jolteon, Kakuna, Marowak, Meowth, Moltres, Nidoking, Nidoqueen, Ninetales, Onix, Persian, Pikachu, Ponyta, Psyduck, Raichu, Rapidash, Rhydon, Rhyhorn, Zapdos
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>White</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+1 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+30 matches
+</font></h2></div></button><div class="content"><p><b>
+Butterfree
+</b><br><br>
+Aerodactyl, Articuno, Beedrill, Butterfree, Caterpie, Charizard, Dewgong, Dodrio, Dragonite, Farfetch’d, Fearow, Golbat, Gyarados, Kakuna, Metapod, Moltres, Paras, Parasect, Pidgeot, Pidgeotto, Pidgey, Pinsir, Scyther, Seel, Spearow, Venomoth, Venonat, Weedle, Zapdos, Zubat
 </p></div>
 
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
