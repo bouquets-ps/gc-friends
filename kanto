@@ -422,6 +422,23 @@ Aerodactyl, Blastoise, Butterfree, Charizard, Cloyster, Dewgong, Dodrio, Dragona
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
 </h2></div><div class="infobox" style="width: 200px">
+div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Purple</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+2 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+44 matches
+</font></h2></div></button><div class="content"><p><b>
+Ditto, Rattata
+</b><br><br>
+Aerodactyl, Arbok, Chansey, Clefable, Clefairy, Cloyster, Dodrio, Eevee, Ekans, Farfetch’d, Fearow, Gastly, Gengar, Golbat, Grimer, Haunter, Jigglypuff, Kangaskhan, Koffing, Lickitung, Meowth, Mewtwo, Muk, Nidoking, Nidoran-M, Nidorino, Persian, Pidgeot, Pidgeotto, Pidgey, Porygon, Raticate, Shellder, Snorlax, Spearow, Starmie, Tauros, Venomoth, Venonat, Weezing, Wigglytuff, Zubat
+</p></div>
+
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#db8b70,#b8502e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fire</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
@@ -433,6 +450,22 @@ Aerodactyl, Blastoise, Butterfree, Charizard, Cloyster, Dewgong, Dodrio, Dragona
 Arcanine, Growlithe, Vulpix
 </b><br><br>
 Abra, Alakazam, Charizard, Charmander, Charmeleon, Cubone, Diglett, Dodrio, Dragonite, Dugtrio, Eevee, Farfetch’d, Fearow, Flareon, Geodude, Golem, Graveler, Hitmonchan, Hitmonlee, Kabuto, Kabutops, Kadabra, Kangaskhan, Magmar, Mankey, Marowak, Moltres, Ninetales, Pidgeot, Pidgeotto, Pidgey, Pinsir, Ponyta, Primeape, Rapidash, Raticate, Spearow, Staryu, Tauros, Weedle
+</p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#db7070,#b82e2e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Red</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+5 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+43 matches
+</font></h2></div></button><div class="content"><p><b>
+Goldeen, Kingler, Krabby, Magikarp, Seaking
+</b><br><br>
+Blastoise, Charizard, Charmander, Charmeleon, Cloyster, Dewgong, Electrode, Flareon, Golduck, Gyarados, Horsea, Jynx, Kabuto, Kabutops, Lapras, Magmar, Omanyte, Omastar, Paras, Parasect, Poliwag, Poliwhirl, Poliwrath, Psyduck, Seadra, Seel, Shellder, Slowbro, Slowpoke, Squirtle, Starmie, Staryu, Tentacool, Tentacruel, Vaporeon, Vileplume, Voltorb, Wartortle
 </p></div>
 
 
@@ -869,6 +902,40 @@ Charmander, Charmeleon, Flareon, Magmar
 </b><br><br>
 Arcanine, Charizard, Electrode, Goldeen, Growlithe, Jynx, Kingler, Krabby, Magikarp, Moltres, Ninetales, Paras, Parasect, Ponyta, Rapidash, Seaking, Vileplume, Voltorb, Vulpix
 </p></div>
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#262626,#1a1a1a) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Black</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+1 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+23 matches
+</font></h2></div></button><div class="content"><p><b>
+Snorlax
+</b><br><br>
+Chansey, Clefable, Clefairy, Ditto, Dodrio, Eevee, Farfetch’d, Fearow, Jigglypuff, Kangaskhan, Lickitung, Meowth, Persian, Pidgeot, Pidgeotto, Pidgey, Porygon, Raticate, Rattata, Spearow, Tauros, Wigglytuff
+</p></div>
+
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Electric</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#db7070,#b82e2e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Red</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+2 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+22 matches
+</font></h2></div></button><div class="content"><p><b>
+Electrode, Voltorb
+</b><br><br>
+Charizard, Charmander, Charmeleon, Electabuzz, Flareon, Goldeen, Jolteon, Jynx, Kingler, Krabby, Magikarp, Magmar, Magneton, Paras, Parasect, Pikachu, Raichu, Seaking, Vileplume, Zapdos
+</p></div>
+
 
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
