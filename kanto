@@ -899,6 +899,25 @@ Abra, Alakazam, Bellsprout, Bulbasaur, Chansey, Clefable, Clefairy, Drowzee, Exe
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
 #0000
 </h2></div><div class="infobox" style="width: 200px">
+<div style="display: inline-block ; background: linear-gradient(#93ecec,#52e0e0) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ice</b></div>
+&nbsp;/&nbsp;
+<div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Psychic</b></div>
+<br>
+<div style="display: inline-block ; background: linear-gradient(#db7070,#b82e2e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Red</b></div>
+</div><div class="infobox" style="width: 200px"><h2><font color="77dd77">
+1 Pokemon
+</font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
+33 matches
+</font></h2></div></button><div class="content"><p><b>
+Jynx
+</b><br><br>
+Abra, Alakazam, Articuno, Charizard, Charmander, Charmeleon, Cloyster, Dewgong, Drowzee, Electrode, Exeggcute, Exeggutor, Flareon, Goldeen, Hypno, Kadabra, Kingler, Krabby, Lapras, Magikarp, Magmar, Mew, Mewtwo, Mr. Mime, Paras, Parasect, Seaking, Slowbro, Slowpoke, Starmie, Vileplume, Voltorb
+</p></div>
+
+
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
+#0000
+</h2></div><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>White</b></div>
