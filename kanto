@@ -48,9 +48,7 @@ body {
 <hr><br>
 <center>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-S
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
@@ -66,9 +64,7 @@ Weedle
 Abra, Alakazam, Arbok, Arcanine, Beedrill, Bellsprout, Bulbasaur, Butterfree, Caterpie, Cubone, Diglett, Dodrio, Dragonite, Dugtrio, Eevee, Ekans, Farfetch’d, Fearow, Gastly, Gengar, Geodude, Gloom, Golbat, Golem, Graveler, Grimer, Growlithe, Haunter, Hitmonchan, Hitmonlee, Ivysaur, Kabuto, Kabutops, Kadabra, Kakuna, Kangaskhan, Koffing, Mankey, Marowak, Metapod, Muk, Nidoking, Nidoqueen, Nidoran-F, Nidoran-M, Nidorina, Nidorino, Oddish, Paras, Parasect, Pidgeot, Pidgeotto, Pidgey, Pinsir, Primeape, Raticate, Scyther, Spearow, Staryu, Tauros, Tentacool, Tentacruel, Venomoth, Venonat, Venusaur, Victreebel, Vileplume, Vulpix, Weepinbell, Weezing, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-A
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Rock</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
@@ -85,9 +81,7 @@ Abra, Aerodactyl, Alakazam, Arcanine, Blastoise, Cloyster, Cubone, Dewgong, Digl
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-A
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
@@ -103,9 +97,7 @@ Tentacool, Tentacruel
 Arbok, Articuno, Beedrill, Bellsprout, Blastoise, Bulbasaur, Cloyster, Dewgong, Dragonair, Dratini, Ekans, Gastly, Gengar, Gloom, Golbat, Goldeen, Golduck, Grimer, Gyarados, Haunter, Horsea, Ivysaur, Kabuto, Kabutops, Kakuna, Kingler, Koffing, Krabby, Lapras, Magikarp, Muk, Nidoking, Nidoqueen, Nidoran-F, Nidoran-M, Nidorina, Nidorino, Oddish, Omanyte, Omastar, Poliwag, Poliwhirl, Poliwrath, Psyduck, Seadra, Seaking, Seel, Shellder, Slowbro, Slowpoke, Squirtle, Starmie, Staryu, Tangela, Vaporeon, Venomoth, Venonat, Venusaur, Victreebel, Vileplume, Wartortle, Weedle, Weepinbell, Weezing, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-A
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#e6c8b3,#d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ground</b></div>
@@ -122,9 +114,7 @@ Arbok, Articuno, Beedrill, Bellsprout, Blastoise, Bulbasaur, Cubone, Diglett, Dr
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-A
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
@@ -139,9 +129,7 @@ Abra, Alakazam, Arcanine, Blastoise, Cloyster, Cubone, Dewgong, Diglett, Dodrio,
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-A
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Psychic</b></div>
@@ -159,9 +147,7 @@ Abra, Aerodactyl, Alakazam, Arbok, Blastoise, Cloyster, Dewgong, Ditto, Drowzee,
 
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-B
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
@@ -179,9 +165,7 @@ Arbok, Bellsprout, Bulbasaur, Butterfree, Caterpie, Drowzee, Ekans, Electabuzz, 
 
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-B
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
@@ -199,9 +183,7 @@ Aerodactyl, Articuno, Blastoise, Butterfree, Charizard, Cloyster, Dewgong, Dodri
 
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-B
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
@@ -217,9 +199,7 @@ Dodrio, Farfetch’d, Fearow, Pidgeot, Pidgeotto, Pidgey, Spearow
 Abra, Aerodactyl, Alakazam, Arcanine, Articuno, Butterfree, Chansey, Charizard, Clefable, Clefairy, Cubone, Diglett, Ditto, Dragonite, Dugtrio, Eevee, Geodude, Golbat, Golem, Graveler, Growlithe, Gyarados, Hitmonchan, Hitmonlee, Jigglypuff, Kabuto, Kabutops, Kadabra, Kangaskhan, Lickitung, Mankey, Marowak, Meowth, Moltres, Persian, Pinsir, Porygon, Primeape, Raticate, Rattata, Scyther, Snorlax, Staryu, Tauros, Vulpix, Weedle, Wigglytuff, Zapdos, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-B
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
@@ -237,9 +217,7 @@ Arbok, Articuno, Beedrill, Bellsprout, Blastoise, Bulbasaur, Dragonair, Dratini,
 
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-B
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
@@ -255,9 +233,7 @@ Golbat, Zubat
 Aerodactyl, Arbok, Articuno, Beedrill, Bellsprout, Bulbasaur, Butterfree, Charizard, Cloyster, Ditto, Dodrio, Dragonite, Ekans, Farfetch’d, Fearow, Gastly, Gengar, Gloom, Grimer, Gyarados, Haunter, Ivysaur, Kakuna, Koffing, Mewtwo, Moltres, Muk, Nidoking, Nidoqueen, Nidoran-F, Nidoran-M, Nidorina, Nidorino, Oddish, Pidgeot, Pidgeotto, Pidgey, Rattata, Scyther, Shellder, Spearow, Starmie, Tentacool, Tentacruel, Venomoth, Venonat, Venusaur, Victreebel, Vileplume, Weedle, Weepinbell, Weezing, Zapdos
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-B
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#93ecec,#52e0e0) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ice</b></div>
@@ -273,9 +249,7 @@ Cloyster
 Aerodactyl, Arbok, Articuno, Blastoise, Dewgong, Ditto, Ekans, Gastly, Gengar, Golbat, Goldeen, Golduck, Grimer, Gyarados, Haunter, Horsea, Jynx, Kabuto, Kabutops, Kingler, Koffing, Krabby, Lapras, Magikarp, Mewtwo, Muk, Nidoking, Nidoran-M, Nidorino, Omanyte, Omastar, Poliwag, Poliwhirl, Poliwrath, Psyduck, Rattata, Seadra, Seaking, Seel, Shellder, Slowbro, Slowpoke, Squirtle, Starmie, Staryu, Tentacool, Tentacruel, Vaporeon, Venomoth, Venonat, Wartortle, Weezing, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-B
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#e6c8b3,#d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ground</b></div>
@@ -291,9 +265,7 @@ Nidoking
 Aerodactyl, Arbok, Beedrill, Bellsprout, Bulbasaur, Cloyster, Cubone, Diglett, Ditto, Dugtrio, Ekans, Gastly, Gengar, Geodude, Gloom, Golbat, Golem, Graveler, Grimer, Haunter, Ivysaur, Kakuna, Koffing, Marowak, Mewtwo, Muk, Nidoqueen, Nidoran-F, Nidoran-M, Nidorina, Nidorino, Oddish, Onix, Rattata, Rhydon, Rhyhorn, Sandshrew, Sandslash, Shellder, Starmie, Tentacool, Tentacruel, Venomoth, Venonat, Venusaur, Victreebel, Vileplume, Weedle, Weepinbell, Weezing, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-B
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Purple</b></div>
@@ -308,9 +280,7 @@ Aerodactyl, Arbok, Blastoise, Cloyster, Dewgong, Ditto, Ekans, Gastly, Gengar, G
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-B
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
@@ -328,9 +298,7 @@ Arbok, Beedrill, Bellsprout, Bulbasaur, Charizard, Charmander, Charmeleon, Ekans
 
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-B
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
@@ -344,9 +312,7 @@ Nidoran-F, Nidorina
 Arbok, Articuno, Beedrill, Bellsprout, Blastoise, Bulbasaur, Dragonair, Dratini, Ekans, Gastly, Gengar, Gloom, Golbat, Golduck, Grimer, Gyarados, Haunter, Horsea, Ivysaur, Kakuna, Koffing, Lapras, Muk, Nidoking, Nidoqueen, Nidoran-M, Nidorino, Oddish, Omanyte, Omastar, Poliwag, Poliwhirl, Poliwrath, Seadra, Squirtle, Tangela, Tentacool, Tentacruel, Vaporeon, Venomoth, Venonat, Venusaur, Victreebel, Vileplume, Wartortle, Weedle, Weepinbell, Weezing, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-B
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
@@ -360,9 +326,7 @@ Psyduck
 Beedrill, Blastoise, Cloyster, Dewgong, Drowzee, Electabuzz, Exeggutor, Goldeen, Golduck, Gyarados, Horsea, Hypno, Jolteon, Kabuto, Kabutops, Kakuna, Kingler, Krabby, Lapras, Magikarp, Meowth, Moltres, Ninetales, Omanyte, Omastar, Persian, Pikachu, Poliwag, Poliwhirl, Poliwrath, Ponyta, Raichu, Rapidash, Sandshrew, Sandslash, Seadra, Seaking, Seel, Shellder, Slowbro, Slowpoke, Squirtle, Starmie, Staryu, Tentacool, Tentacruel, Vaporeon, Wartortle, Zapdos
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-B
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Psychic</b></div>
@@ -380,9 +344,7 @@ Abra, Alakazam, Blastoise, Chansey, Clefable, Clefairy, Cloyster, Dewgong, Drowz
 
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Rock</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
@@ -398,9 +360,7 @@ Aerodactyl
 Arbok, Articuno, Butterfree, Charizard, Cloyster, Ditto, Dodrio, Dragonite, Ekans, Farfetch’d, Fearow, Gastly, Gengar, Geodude, Golbat, Golem, Graveler, Grimer, Gyarados, Haunter, Kabuto, Kabutops, Koffing, Mewtwo, Moltres, Muk, Nidoking, Nidoran-M, Nidorino, Omanyte, Omastar, Onix, Pidgeot, Pidgeotto, Pidgey, Rattata, Rhydon, Rhyhorn, Scyther, Shellder, Spearow, Starmie, Venomoth, Venonat, Weezing, Zapdos, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Rock</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
@@ -417,9 +377,7 @@ Aerodactyl, Articuno, Blastoise, Cloyster, Dewgong, Dragonair, Dratini, Geodude,
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
@@ -435,9 +393,7 @@ Venomoth, Venonat
 Aerodactyl, Arbok, Beedrill, Bellsprout, Bulbasaur, Butterfree, Caterpie, Cloyster, Ditto, Ekans, Gastly, Gengar, Gloom, Golbat, Grimer, Haunter, Ivysaur, Kakuna, Koffing, Metapod, Mewtwo, Muk, Nidoking, Nidoqueen, Nidoran-F, Nidoran-M, Nidorina, Nidorino, Oddish, Paras, Parasect, Pinsir, Rattata, Scyther, Shellder, Starmie, Tentacool, Tentacruel, Venusaur, Victreebel, Vileplume, Weedle, Weepinbell, Weezing, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#ac3939,#732626) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fighting</b></div>
@@ -453,9 +409,7 @@ Poliwrath
 Articuno, Blastoise, Cloyster, Dewgong, Dragonair, Dratini, Gloom, Goldeen, Golduck, Gyarados, Hitmonchan, Hitmonlee, Horsea, Kabuto, Kabutops, Kingler, Krabby, Lapras, Machoke, Machop, Magikarp, Mankey, Nidoqueen, Nidoran-F, Nidorina, Oddish, Omanyte, Omastar, Poliwag, Poliwhirl, Primeape, Psyduck, Seadra, Seaking, Seel, Shellder, Slowbro, Slowpoke, Squirtle, Starmie, Staryu, Tangela, Tentacool, Tentacruel, Vaporeon, Wartortle
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#7070db,#2e2eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Dragon</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
@@ -471,9 +425,7 @@ Dragonite
 Abra, Aerodactyl, Alakazam, Arcanine, Articuno, Butterfree, Charizard, Cubone, Diglett, Dodrio, Dragonair, Dragonite, Dratini, Dugtrio, Eevee, Farfetch’d, Fearow, Geodude, Golbat, Golem, Graveler, Growlithe, Gyarados, Hitmonchan, Hitmonlee, Kabuto, Kabutops, Kadabra, Kangaskhan, Mankey, Marowak, Moltres, Pidgeot, Pidgeotto, Pidgey, Pinsir, Primeape, Raticate, Scyther, Spearow, Staryu, Tauros, Vulpix, Weedle, Zapdos, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
@@ -487,9 +439,7 @@ Eevee, Kangaskhan, Raticate, Tauros
 Abra, Alakazam, Arcanine, Chansey, Clefable, Clefairy, Cubone, Diglett, Ditto, Dodrio, Dragonite, Dugtrio, Farfetch’d, Fearow, Geodude, Golem, Graveler, Growlithe, Hitmonchan, Hitmonlee, Jigglypuff, Kabuto, Kabutops, Kadabra, Lickitung, Mankey, Marowak, Meowth, Persian, Pidgeot, Pidgeotto, Pidgey, Pinsir, Porygon, Primeape, Rattata, Snorlax, Spearow, Staryu, Vulpix, Weedle, Wigglytuff
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Psychic</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
@@ -503,9 +453,7 @@ Abra, Alakazam, Kadabra
 Arcanine, Cubone, Diglett, Dodrio, Dragonite, Drowzee, Dugtrio, Eevee, Exeggcute, Exeggutor, Farfetch’d, Fearow, Geodude, Golem, Graveler, Growlithe, Hitmonchan, Hitmonlee, Hypno, Jynx, Kabuto, Kabutops, Kangaskhan, Mankey, Marowak, Mew, Mewtwo, Mr. Mime, Pidgeot, Pidgeotto, Pidgey, Pinsir, Primeape, Raticate, Slowbro, Slowpoke, Spearow, Starmie, Staryu, Tauros, Vulpix, Weedle
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
@@ -520,9 +468,7 @@ Abra, Alakazam, Arcanine, Beedrill, Butterfree, Caterpie, Cubone, Diglett, Dodri
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#93ecec,#52e0e0) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ice</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
@@ -538,9 +484,7 @@ Articuno
 Aerodactyl, Blastoise, Butterfree, Charizard, Cloyster, Dewgong, Dodrio, Dragonair, Dragonite, Dratini, Farfetch’d, Fearow, Gloom, Golbat, Golduck, Gyarados, Horsea, Jynx, Lapras, Moltres, Nidoqueen, Nidoran-F, Nidorina, Oddish, Omanyte, Omastar, Pidgeot, Pidgeotto, Pidgey, Poliwag, Poliwhirl, Poliwrath, Scyther, Seadra, Spearow, Squirtle, Tangela, Tentacool, Tentacruel, Vaporeon, Wartortle, Zapdos, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Purple</b></div>
@@ -554,9 +498,7 @@ Ditto, Rattata
 Aerodactyl, Arbok, Chansey, Clefable, Clefairy, Cloyster, Dodrio, Eevee, Ekans, Farfetch’d, Fearow, Gastly, Gengar, Golbat, Grimer, Haunter, Jigglypuff, Kangaskhan, Koffing, Lickitung, Meowth, Mewtwo, Muk, Nidoking, Nidoran-M, Nidorino, Persian, Pidgeot, Pidgeotto, Pidgey, Porygon, Raticate, Shellder, Snorlax, Spearow, Starmie, Tauros, Venomoth, Venonat, Weezing, Wigglytuff, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Rock</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#e6c8b3,#d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ground</b></div>
@@ -573,9 +515,7 @@ Abra, Aerodactyl, Alakazam, Arcanine, Cubone, Diglett, Dodrio, Dragonite, Dugtri
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#db8b70,#b8502e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fire</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
@@ -589,9 +529,7 @@ Arcanine, Growlithe, Vulpix
 Abra, Alakazam, Charizard, Charmander, Charmeleon, Cubone, Diglett, Dodrio, Dragonite, Dugtrio, Eevee, Farfetch’d, Fearow, Flareon, Geodude, Golem, Graveler, Hitmonchan, Hitmonlee, Kabuto, Kabutops, Kadabra, Kangaskhan, Magmar, Mankey, Marowak, Moltres, Ninetales, Pidgeot, Pidgeotto, Pidgey, Pinsir, Ponyta, Primeape, Rapidash, Raticate, Spearow, Staryu, Tauros, Weedle
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#db7070,#b82e2e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Red</b></div>
@@ -606,9 +544,7 @@ Blastoise, Charizard, Charmander, Charmeleon, Cloyster, Dewgong, Electrode, Flar
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#db8b70,#b8502e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fire</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
@@ -624,9 +560,7 @@ Moltres
 Aerodactyl, Arcanine, Articuno, Beedrill, Butterfree, Charizard, Charmander, Charmeleon, Dodrio, Dragonite, Drowzee, Electabuzz, Exeggutor, Farfetch’d, Fearow, Flareon, Golbat, Growlithe, Gyarados, Hypno, Jolteon, Kakuna, Magmar, Meowth, Ninetales, Persian, Pidgeot, Pidgeotto, Pidgey, Pikachu, Ponyta, Psyduck, Raichu, Rapidash, Sandshrew, Sandslash, Scyther, Spearow, Vulpix, Zapdos, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Psychic</b></div>
@@ -642,9 +576,7 @@ Exeggutor
 Abra, Alakazam, Beedrill, Bellsprout, Bulbasaur, Drowzee, Electabuzz, Exeggcute, Gloom, Hypno, Ivysaur, Jolteon, Jynx, Kadabra, Kakuna, Meowth, Mew, Mewtwo, Moltres, Mr. Mime, Ninetales, Oddish, Paras, Parasect, Persian, Pikachu, Ponyta, Psyduck, Raichu, Rapidash, Sandshrew, Sandslash, Slowbro, Slowpoke, Starmie, Tangela, Venusaur, Victreebel, Vileplume, Weepinbell, Zapdos
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#93ecec,#52e0e0) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ice</b></div>
@@ -662,9 +594,7 @@ Articuno, Blastoise, Cloyster, Dewgong, Dragonair, Dratini, Gloom, Goldeen, Gold
 
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
@@ -680,9 +610,7 @@ Bellsprout, Bulbasaur, Ivysaur, Venusaur, Victreebel, Weepinbell
 Arbok, Beedrill, Caterpie, Ekans, Exeggcute, Exeggutor, Gastly, Gengar, Gloom, Golbat, Grimer, Haunter, Kakuna, Koffing, Metapod, Muk, Nidoking, Nidoqueen, Nidoran-F, Nidoran-M, Nidorina, Nidorino, Oddish, Paras, Parasect, Scyther, Tangela, Tentacool, Tentacruel, Venomoth, Venonat, Vileplume, Weedle, Weezing, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#e6c8b3,#d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ground</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
@@ -697,9 +625,7 @@ Abra, Alakazam, Arcanine, Dodrio, Dragonite, Eevee, Farfetch’d, Fearow, Geodud
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
@@ -713,9 +639,7 @@ Blastoise, Golduck, Horsea, Poliwag, Poliwhirl, Seadra, Squirtle, Vaporeon, Wart
 Articuno, Cloyster, Dewgong, Dragonair, Dratini, Gloom, Goldeen, Gyarados, Kabuto, Kabutops, Kingler, Krabby, Lapras, Magikarp, Nidoqueen, Nidoran-F, Nidorina, Oddish, Omanyte, Omastar, Poliwrath, Psyduck, Seaking, Seel, Shellder, Slowbro, Slowpoke, Starmie, Staryu, Tangela, Tentacool, Tentacruel
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#7339ac,#4d2673) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ghost</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
@@ -732,9 +656,7 @@ Aerodactyl, Arbok, Beedrill, Bellsprout, Bulbasaur, Cloyster, Ditto, Ekans, Gloo
 
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
@@ -748,9 +670,7 @@ Meowth, Persian
 Beedrill, Chansey, Clefable, Clefairy, Ditto, Dodrio, Drowzee, Eevee, Electabuzz, Exeggutor, Farfetch’d, Fearow, Hypno, Jigglypuff, Jolteon, Kakuna, Kangaskhan, Lickitung, Moltres, Ninetales, Pidgeot, Pidgeotto, Pidgey, Pikachu, Ponyta, Porygon, Psyduck, Raichu, Rapidash, Raticate, Rattata, Sandshrew, Sandslash, Snorlax, Spearow, Tauros, Wigglytuff, Zapdos
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-C
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Poison</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Purple</b></div>
@@ -764,9 +684,7 @@ Arbok, Ekans, Grimer, Koffing, Muk, Nidoran-M, Nidorino, Weezing
 Aerodactyl, Beedrill, Bellsprout, Bulbasaur, Cloyster, Ditto, Gastly, Gengar, Gloom, Golbat, Haunter, Ivysaur, Kakuna, Mewtwo, Nidoking, Nidoqueen, Nidoran-F, Nidorina, Oddish, Rattata, Shellder, Starmie, Tentacool, Tentacruel, Venomoth, Venonat, Venusaur, Victreebel, Vileplume, Weedle, Weepinbell, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#db8b70,#b8502e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fire</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
@@ -784,9 +702,7 @@ Aerodactyl, Arcanine, Articuno, Butterfree, Charmander, Charmeleon, Dodrio, Drag
 
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Electric</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
@@ -802,9 +718,7 @@ Zapdos
 Aerodactyl, Articuno, Beedrill, Butterfree, Charizard, Dodrio, Dragonite, Drowzee, Electabuzz, Electrode, Exeggutor, Farfetch’d, Fearow, Golbat, Gyarados, Hypno, Jolteon, Kakuna, Magneton, Meowth, Moltres, Ninetales, Persian, Pidgeot, Pidgeotto, Pidgey, Pikachu, Ponyta, Psyduck, Raichu, Rapidash, Sandshrew, Sandslash, Scyther, Spearow, Voltorb, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
@@ -820,9 +734,7 @@ Paras, Parasect
 Beedrill, Bellsprout, Bulbasaur, Butterfree, Caterpie, Charizard, Charmander, Charmeleon, Electrode, Exeggcute, Exeggutor, Flareon, Gloom, Goldeen, Ivysaur, Jynx, Kakuna, Kingler, Krabby, Magikarp, Magmar, Metapod, Oddish, Pinsir, Scyther, Seaking, Tangela, Venomoth, Venonat, Venusaur, Victreebel, Vileplume, Voltorb, Weedle, Weepinbell
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#ac3939,#732626) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fighting</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Brown</b></div>
@@ -837,9 +749,7 @@ Abra, Alakazam, Arcanine, Cubone, Diglett, Dodrio, Dragonite, Dugtrio, Eevee, Fa
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
@@ -853,9 +763,7 @@ Tangela
 Articuno, Bellsprout, Blastoise, Bulbasaur, Dragonair, Dratini, Exeggcute, Exeggutor, Gloom, Golduck, Gyarados, Horsea, Ivysaur, Lapras, Nidoqueen, Nidoran-F, Nidorina, Oddish, Omanyte, Omastar, Paras, Parasect, Poliwag, Poliwhirl, Poliwrath, Seadra, Squirtle, Tentacool, Tentacruel, Vaporeon, Venusaur, Victreebel, Vileplume, Wartortle, Weepinbell
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Psychic</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#a670db,#732eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Purple</b></div>
@@ -869,9 +777,7 @@ Mewtwo
 Abra, Aerodactyl, Alakazam, Arbok, Cloyster, Ditto, Drowzee, Ekans, Exeggcute, Exeggutor, Gastly, Gengar, Golbat, Grimer, Haunter, Hypno, Jynx, Kadabra, Koffing, Mew, Mr. Mime, Muk, Nidoking, Nidoran-M, Nidorino, Rattata, Shellder, Slowbro, Slowpoke, Starmie, Venomoth, Venonat, Weezing, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#93ecec,#52e0e0) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ice</b></div>
@@ -889,9 +795,7 @@ Articuno, Blastoise, Butterfree, Cloyster, Goldeen, Golduck, Gyarados, Horsea, J
 
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
@@ -907,9 +811,7 @@ Scyther
 Aerodactyl, Articuno, Beedrill, Bellsprout, Bulbasaur, Butterfree, Caterpie, Charizard, Dodrio, Dragonite, Farfetch’d, Fearow, Golbat, Gyarados, Ivysaur, Kakuna, Metapod, Moltres, Paras, Parasect, Pidgeot, Pidgeotto, Pidgey, Pinsir, Spearow, Venomoth, Venonat, Venusaur, Victreebel, Weedle, Weepinbell, Zapdos, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Grass</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Psychic</b></div>
@@ -925,9 +827,7 @@ Exeggcute
 Abra, Alakazam, Bellsprout, Bulbasaur, Chansey, Clefable, Clefairy, Drowzee, Exeggutor, Gloom, Hypno, Ivysaur, Jigglypuff, Jynx, Kadabra, Lickitung, Mew, Mewtwo, Mr. Mime, Oddish, Paras, Parasect, Porygon, Slowbro, Slowpoke, Starmie, Tangela, Venusaur, Victreebel, Vileplume, Weepinbell, Wigglytuff
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#93ecec,#52e0e0) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ice</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Psychic</b></div>
@@ -944,9 +844,7 @@ Abra, Alakazam, Articuno, Charizard, Charmander, Charmeleon, Cloyster, Dewgong, 
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Water</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>White</b></div>
@@ -961,9 +859,7 @@ Blastoise, Butterfree, Cloyster, Dewgong, Goldeen, Golduck, Gyarados, Horsea, Ka
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#e6c8b3,#d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ground</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
@@ -977,9 +873,7 @@ Sandshrew, Sandslash
 Beedrill, Cubone, Diglett, Drowzee, Dugtrio, Electabuzz, Exeggutor, Geodude, Golem, Graveler, Hypno, Jolteon, Kakuna, Marowak, Meowth, Moltres, Nidoking, Nidoqueen, Ninetales, Onix, Persian, Pikachu, Ponyta, Psyduck, Raichu, Rapidash, Rhydon, Rhyhorn, Zapdos
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#bfbfbf,#a6a6a6) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Flying</b></div>
@@ -995,9 +889,7 @@ Butterfree
 Aerodactyl, Articuno, Beedrill, Butterfree, Caterpie, Charizard, Dewgong, Dodrio, Dragonite, Farfetch’d, Fearow, Golbat, Gyarados, Kakuna, Metapod, Moltres, Paras, Parasect, Pidgeot, Pidgeotto, Pidgey, Pinsir, Scyther, Seel, Spearow, Venomoth, Venonat, Weedle, Zapdos, Zubat
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-D
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Psychic</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
@@ -1011,9 +903,7 @@ Drowzee, Hypno
 Abra, Alakazam, Beedrill, Electabuzz, Exeggcute, Exeggutor, Jolteon, Jynx, Kadabra, Kakuna, Meowth, Mew, Mewtwo, Moltres, Mr. Mime, Ninetales, Persian, Pikachu, Ponyta, Psyduck, Raichu, Rapidash, Sandshrew, Sandslash, Slowbro, Slowpoke, Starmie, Zapdos
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-E
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Pink</b></div>
@@ -1027,9 +917,7 @@ Chansey, Clefable, Clefairy, Jigglypuff, Lickitung, Porygon, Wigglytuff
 Ditto, Dodrio, Eevee, Exeggcute, Farfetch’d, Fearow, Kangaskhan, Meowth, Mew, Mr. Mime, Persian, Pidgeot, Pidgeotto, Pidgey, Raticate, Rattata, Slowbro, Slowpoke, Snorlax, Spearow, Tauros
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-E
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#db8b70,#b8502e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fire</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
@@ -1043,9 +931,7 @@ Ninetales, Ponyta, Rapidash
 Arcanine, Beedrill, Charizard, Charmander, Charmeleon, Drowzee, Electabuzz, Exeggutor, Flareon, Growlithe, Hypno, Jolteon, Kakuna, Magmar, Meowth, Moltres, Persian, Pikachu, Psyduck, Raichu, Sandshrew, Sandslash, Vulpix, Zapdos
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-E
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#7070db,#2e2eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Dragon</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#70a6db,#2e73b8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Blue</b></div>
@@ -1059,9 +945,7 @@ Dragonair, Dratini
 Articuno, Blastoise, Dragonite, Gloom, Golduck, Gyarados, Horsea, Lapras, Nidoqueen, Nidoran-F, Nidorina, Oddish, Omanyte, Omastar, Poliwag, Poliwhirl, Poliwrath, Seadra, Squirtle, Tangela, Tentacool, Tentacruel, Vaporeon, Wartortle
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-E
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#db8b70,#b8502e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fire</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#db7070,#b82e2e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Red</b></div>
@@ -1075,9 +959,7 @@ Charmander, Charmeleon, Flareon, Magmar
 Arcanine, Charizard, Electrode, Goldeen, Growlithe, Jynx, Kingler, Krabby, Magikarp, Moltres, Ninetales, Paras, Parasect, Ponyta, Rapidash, Seaking, Vileplume, Voltorb, Vulpix
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-E
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#e6e6e6,#d9d9d9) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Normal</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#262626,#1a1a1a) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Black</b></div>
@@ -1092,9 +974,7 @@ Chansey, Clefable, Clefairy, Ditto, Dodrio, Eevee, Farfetch’d, Fearow, Jigglyp
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-E
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Electric</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#db7070,#b82e2e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Red</b></div>
@@ -1109,9 +989,7 @@ Charizard, Charmander, Charmeleon, Electabuzz, Flareon, Goldeen, Jolteon, Jynx, 
 </p></div>
 
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-E
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Electric</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Yellow</b></div>
@@ -1125,9 +1003,7 @@ Electabuzz, Jolteon, Pikachu, Raichu
 Beedrill, Drowzee, Electrode, Exeggutor, Hypno, Kakuna, Magneton, Meowth, Moltres, Ninetales, Persian, Ponyta, Psyduck, Rapidash, Sandshrew, Sandslash, Voltorb, Zapdos
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-E
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#e6c8b3,#d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ground</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Rock</b></div>
@@ -1143,9 +1019,7 @@ Rhydon, Rhyhorn
 Aerodactyl, Cubone, Diglett, Dugtrio, Geodude, Golem, Graveler, Kabuto, Kabutops, Machoke, Machop, Magneton, Marowak, Nidoking, Nidoqueen, Omanyte, Omastar, Onix, Sandshrew, Sandslash
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-E
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c68353,#995e33) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Rock</b></div>
 &nbsp;/&nbsp;
 <div style="display: inline-block ; background: linear-gradient(#e6c8b3,#d29e79) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Ground</b></div>
@@ -1161,9 +1035,7 @@ Onix
 Aerodactyl, Cubone, Diglett, Dugtrio, Geodude, Golem, Graveler, Kabuto, Kabutops, Machoke, Machop, Magneton, Marowak, Nidoking, Nidoqueen, Omanyte, Omastar, Rhydon, Rhyhorn, Sandshrew, Sandslash
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-E
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Psychic</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#db70db,#b72eb8) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Pink</b></div>
@@ -1177,9 +1049,7 @@ Mew, Mr. Mime
 Abra, Alakazam, Chansey, Clefable, Clefairy, Drowzee, Exeggcute, Exeggutor, Hypno, Jigglypuff, Jynx, Kadabra, Lickitung, Mewtwo, Porygon, Slowbro, Slowpoke, Starmie, Wigglytuff
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-F
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#70db70,#2eb82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Green</b></div>
@@ -1193,9 +1063,7 @@ Caterpie, Metapod
 Beedrill, Bellsprout, Bulbasaur, Butterfree, Ivysaur, Kakuna, Paras, Parasect, Pinsir, Scyther, Venomoth, Venonat, Venusaur, Victreebel, Weedle, Weepinbell
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-F
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#dbdb70,#b8b72e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Electric</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#999999,#666666) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Gray</b></div>
@@ -1209,9 +1077,7 @@ Magneton
 Electabuzz, Electrode, Jolteon, Machoke, Machop, Onix, Pikachu, Raichu, Rhydon, Rhyhorn, Voltorb, Zapdos
 </p></div>
 
-<button type="button" class="collapsible"><div class="infobox" style="width: 200px"><h2>
-F
-</h2></div><div class="infobox" style="width: 200px">
+<button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#ac3939,#732626) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Fighting</b></div>
 <br>
 <div style="display: inline-block ; background: linear-gradient(#999999,#666666) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Gray</b></div>
