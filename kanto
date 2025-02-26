@@ -58,7 +58,9 @@ body {
 1 Pokemon
 </font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
 72 matches
-</font></h2></div></button><div class="content"><p><b>
+</font></h2></div></button><div class="content"><p>
+<img src="//play.pokemonshowdown.com/sprites/gen1/weedle.png"><br>
+<b>
 Weedle
 </b><br><br>
 Abra, Alakazam, Arbok, Arcanine, Beedrill, Bellsprout, Bulbasaur, Butterfree, Caterpie, Cubone, Diglett, Dodrio, Dragonite, Dugtrio, Eevee, Ekans, Farfetch’d, Fearow, Gastly, Gengar, Geodude, Gloom, Golbat, Golem, Graveler, Grimer, Growlithe, Haunter, Hitmonchan, Hitmonlee, Ivysaur, Kabuto, Kabutops, Kadabra, Kakuna, Kangaskhan, Koffing, Mankey, Marowak, Metapod, Muk, Nidoking, Nidoqueen, Nidoran-F, Nidoran-M, Nidorina, Nidorino, Oddish, Paras, Parasect, Pidgeot, Pidgeotto, Pidgey, Pinsir, Primeape, Raticate, Scyther, Spearow, Staryu, Tauros, Tentacool, Tentacruel, Venomoth, Venonat, Venusaur, Victreebel, Vileplume, Vulpix, Weepinbell, Weezing, Zubat
@@ -633,9 +635,7 @@ Abra, Alakazam, Arcanine, Dodrio, Dragonite, Eevee, Farfetch’d, Fearow, Geodud
 9 Pokemon
 </font></h2></div><div class="infobox" style="width: 200px"><h2><font color="a2bffe">
 41 matches
-</font></h2></div></button><div class="content"><p><b>
-Blastoise, Golduck, Horsea, Poliwag, Poliwhirl, Seadra, Squirtle, Vaporeon, Wartortle
-</b><br>
+</font></h2></div></button><div class="content"><p>
 <img src="//play.pokemonshowdown.com/sprites/gen1/blastoise.png">
 <img src="//play.pokemonshowdown.com/sprites/gen1/golduck.png">
 <img src="//play.pokemonshowdown.com/sprites/gen1/horsea.png">
@@ -645,7 +645,9 @@ Blastoise, Golduck, Horsea, Poliwag, Poliwhirl, Seadra, Squirtle, Vaporeon, Wart
 <img src="//play.pokemonshowdown.com/sprites/gen1/squirtle.png">
 <img src="//play.pokemonshowdown.com/sprites/gen1/vaporeon.png">
 <img src="//play.pokemonshowdown.com/sprites/gen1/wartortle.png">
-<br>
+<br><b>
+Blastoise, Golduck, Horsea, Poliwag, Poliwhirl, Seadra, Squirtle, Vaporeon, Wartortle
+</b><br><br>
 Articuno, Cloyster, Dewgong, Dragonair, Dratini, Gloom, Goldeen, Gyarados, Kabuto, Kabutops, Kingler, Krabby, Lapras, Magikarp, Nidoqueen, Nidoran-F, Nidorina, Oddish, Omanyte, Omastar, Poliwrath, Psyduck, Seaking, Seel, Shellder, Slowbro, Slowpoke, Starmie, Staryu, Tangela, Tentacool, Tentacruel
 </p></div>
 
