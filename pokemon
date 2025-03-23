@@ -3,10 +3,79 @@
 <head>
 <title>PS! Game Corner Bulbasaur's Kanto Friends</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
+<script>
+function calculateSettingAsThemeString({ localStorageTheme, systemSettingDark }) {
+  if (localStorageTheme !== null) {
+    return localStorageTheme;
+  }
+
+  if (systemSettingDark.matches) {
+    return "dark";
+  }
+
+  return "light";
+}
+
+function updateButton({ buttonEl, isDark }) {
+  const newCta = isDark ? "Light" : "Dark";
+buttonEl.setAttribute("aria-label", newCta);
+  buttonEl.innerText = newCta;
+}
+
+function updateThemeOnHtmlEl({ theme }) {
+  document.querySelector("html").setAttribute("data-theme", theme);
+}
+
+const button = document.querySelector("[data-theme-toggle]");
+const localStorageTheme = localStorage.getItem("theme");
+const systemSettingDark = window.matchMedia("(prefers-color-scheme: dark)");
+
+let currentThemeSetting = calculateSettingAsThemeString({ localStorageTheme, systemSettingDark });
+
+updateButton({ buttonEl: button, isDark: currentThemeSetting === "dark" });
+updateThemeOnHtmlEl({ theme: currentThemeSetting });
+
+button.addEventListener("click", (event) => {
+  const newTheme = currentThemeSetting === "dark" ? "light" : "dark";
+
+  localStorage.setItem("theme", newTheme);
+  updateButton({ buttonEl: button, isDark: newTheme === "dark" });
+  updateThemeOnHtmlEl({ theme: newTheme });
+
+  currentThemeSetting = newTheme;
+});
+
+var coll = document.getElementsByClassName("collapsible");
+var i;
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
 <style>
+.switch {
+  font-family: "Quicksand", sans-serif;
+  border: 1px solid var(--color-fg);
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  transition: all var(--global-transition-time) ease-in-out;
+  color: var(--color-fg);
+  background-color: var(--color-bg);
+  transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease;
+  margin-bottom: 24px;
+}
 .collapsible {
-  background-color: #222222;
-  color: white;
+  border: 1px solid #68a;
+  border-radius: 5px;
+  background-color: var(--color-bg);
+  color: var(--color-fg);
   cursor: pointer;
   padding: 10px;
   width: 100%;
@@ -14,15 +83,20 @@
   text-align: center;
   outline: none;
   font-family: "Quicksand", sans-serif;
+  transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease;
 }
 .active, .collapsible:hover {
-  background-color: #333333;
+  background-color: var(--color-sg);
+  transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease;
 }
 .content {
+  border: 1px solid #68a;
+  border-radius: 5px;
   padding: 0 18px;
   display: none;
   overflow: hidden;
-  background-color: #111111;
+  background-color: var(--color-bg);
+  transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease;
 }
 td {
   vertical-align: middle;
@@ -37,16 +111,40 @@ div {
 body {
   font-family: "Quicksand", sans-serif;
   padding: 30px;
+  background-color: var(--color-bg);
+  color: var(--color-fg);
+  transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease;
+}
+[data-theme="light"] {
+   --color-bg: #ffffff;
+   --color-fg: #000000;
+   --color-sg: #f5f5f5;
+   --transition-speed: 0.5s;
+}
+[data-theme="dark"] {
+   --color-bg: #000000;
+   --color-fg: #ffffff;
+   --color-sg: #222222;
+   --transition-speed: 0.5s;
 }
 </style>
 </head>
-<body style="background-color: black; color: white">
+<body>
 <center>
 <h1><table><tr><td>PS! Game Corner Bulbasaur's Kanto Friends</td></tr></table></h1>
 </center>
 
 <hr><br>
 <center>
+
+<button
+    type="button"
+    class="switch"
+    data-theme-toggle
+    aria-label="Light"
+  >Light</button>
+
+<br><br>
 
 <button type="button" class="collapsible"><div class="infobox" style="width: 200px">
 <div style="display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center"><b>Bug</b></div>
@@ -1305,20 +1403,3 @@ Machoke, Machop
 </b><br><br>
 Hitmonchan, Hitmonlee, Magneton, Mankey, Onix, Poliwrath, Primeape, Rhydon, Rhyhorn
 </p></div>
-
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
